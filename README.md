@@ -1,3 +1,12 @@
+Rust Application Effect:
+```
+$ rustc main.rs && ./main "65 mb"
+Input is:
+Size Int: 65
+Magnitude: MB
+Sizes: FileSize { bytes: 65000000, kilobytes: 65000.0, megabytes: 65.0, gigabytes: 0.065 }
+```
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=665539593)
 
 # Rust template
